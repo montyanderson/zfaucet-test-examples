@@ -1,0 +1,18 @@
+{
+  "name": "zfaucet-test-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Monty Anderson <montydev@protonmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^5.0.1",
+    "sinon": "^4.4.2",
+    "stdrpc": "0.0.2"
+  }
+}
